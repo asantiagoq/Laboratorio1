@@ -1,2 +1,2 @@
-# Laboratorio1
+#  Team Laboratory
 Resolucion del Laboratorio1
